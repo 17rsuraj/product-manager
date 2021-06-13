@@ -1,8 +1,8 @@
 # Project Theme
 
-For this project, you will be running a Design Sprint to further develop a concept to address the opportunity that you identified in the Project - 1. 
+LinkedIn is trying to expand its job market offerings by creating an app that will recommend the best jobs to recent college graduates based on their skills and preferences.
+For this project, I will be running a Design Sprint to further develop a concept to address the opportunity that I identified in the Project - 1. 
 There are six phases of the Design Sprint. 
-For this project there will also be two additional steps-- one optional step for iterating based on findings from user testing and one to prepare your concept for handoff.
 
 # Project Goal
 
