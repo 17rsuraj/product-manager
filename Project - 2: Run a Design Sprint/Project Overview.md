@@ -6,9 +6,7 @@ For this project there will also be two additional steps-- one optional step for
 
 # Project Goal
 
-A Design Sprint is a cross-functional exercise with team members participating from a number of different roles across your company (Design, Product, Eng, Marketing, etc).
-
-In this Design Sprint project, we’ll be going through the exercises on your own and we will simulate some of the group activities related to brainstorming.
+A Design Sprint is a cross-functional exercise with team members participating from a number of different roles across the company (Design, Product, Eng, Marketing, etc).
 
 The project consists of following Steps.
 
